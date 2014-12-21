@@ -2,4 +2,4 @@ This is the first line in the file.
 
 this is the first edit to the first file
 
-Hey this is Alex screwing with this file now. Woo hoo. We are going to witness a real git conflict.
+this is the second edit to the first file. here is where things get messy. 
